@@ -54,9 +54,7 @@ README.md
 
 Cómo ejecutar el proyecto
 
-Clona el repositorio:
-git clone https://github.com/Phoowen/Proyecto1Parcial.git
-
+Clona el repositorio
 Navega al directorio del proyecto:
 cd flutter_application_4_copia
 
@@ -74,6 +72,7 @@ Flutter: framework para desarrollo de aplicaciones multiplataforma.
 Dart: lenguaje de programación principal.
 
 Widgets nativos de Flutter: ListView, GridView, Card, SnackBar, Dialog, Form, TextFormField, ElevatedButton, OutlinedButton, SwitchListTile.
+
 
 
 Garcia Zurita Fernando Uriel
